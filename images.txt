@@ -1,5 +1,6 @@
 nginx
 node:latest
+mysql:latest
 alpine
 node:18.0-alpine3.14
 #支持私库
