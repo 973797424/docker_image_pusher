@@ -1,4 +1,5 @@
 nginx
+redis:latest
 node:latest
 mysql:latest
 alpine
