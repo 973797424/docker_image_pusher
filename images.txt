@@ -2,7 +2,7 @@ nginx
 redis:latest
 node:latest
 mysql:latest
-rancher:latest
+rancher/rancher
 alpine
 node:18.0-alpine3.14
 bitnami/minio
